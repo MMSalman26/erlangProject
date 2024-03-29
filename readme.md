@@ -9,9 +9,9 @@ The Erlang B model is commonly used in telecommunications and call center manage
 ## Features
 
 - Input parameters:
-  - Offered traffic (Erlang)
-  - MINIMUM GRADE OF SERVICE
-  - OBJECTIVE GRADE OF SERVICE
+  - Offered Traffic (Erlang)
+  - Minimum Grade Of Service
+  - Objective Grade Of Service
   - Maximum number of trunks
 - Results displayed in a table format
 - Dynamic plots:
